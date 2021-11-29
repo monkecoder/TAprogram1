@@ -1,0 +1,5 @@
+﻿  TAprogram.cpp
+D:\Repository\VisualStudio\TAprogram\TAprogram\TAprogram.cpp(15,44): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Repository\VisualStudio\TAprogram\TAprogram\TAprogram.cpp(31,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Repository\VisualStudio\TAprogram\TAprogram\TAprogram.cpp(43,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  TAprogram.vcxproj -> D:\Repository\VisualStudio\TAprogram\Debug\TAprogram.exe
